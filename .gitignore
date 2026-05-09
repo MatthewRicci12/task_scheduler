@@ -1,0 +1,22 @@
+# CMake build output
+cmake-build-*/
+
+# CLion IDE
+.idea/
+
+# Compiled outputs
+*.elf
+*.bin
+*.hex
+*.map
+*.a
+*.o
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+build.ninja
+rules.ninja
+Testing/
